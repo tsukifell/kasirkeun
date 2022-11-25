@@ -3,6 +3,7 @@
 
 <b> Usage </b>
 $git clone https://github.com/tsukifell/kasirkeun.git
+npm install
 php artisan serve
 
 <p> Note : Import kasirkeun.sql ke phpmyadmin
